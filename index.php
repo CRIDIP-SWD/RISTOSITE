@@ -110,7 +110,7 @@
                                 <h1 class="text-center animation-slideDown hidden-xs"><strong>A complete web solution for your awesome project</strong></h1>
                                 <h2 class="text-center animation-slideUp push hidden-xs">Bring your project to life months sooner</h2>
                                 <p class="text-center animation-fadeIn">
-                                    <img src="img/placeholders/screenshots/promo_desktop_left.png" alt="Promo Image 1">
+                                    <img src="assets/img/placeholders/screenshots/promo_desktop_left.png" alt="Promo Image 1">
                                 </p>
                             </div>
                         </section>
@@ -121,7 +121,7 @@
                                 <h1 class="text-center animation-fadeIn360 hidden-xs"><strong>Featuring a Powerful and Flexible layout</strong></h1>
                                 <h2 class="text-center animation-fadeIn360 push hidden-xs">Letting you focus on creating your project</h2>
                                 <p class="text-center animation-fadeInLeft">
-                                    <img src="img/placeholders/screenshots/promo_desktop_right.png" alt="Promo Image 2">
+                                    <img src="assets/img/placeholders/screenshots/promo_desktop_right.png" alt="Promo Image 2">
                                 </p>
                             </div>
                         </section>
@@ -132,7 +132,7 @@
                                 <h1 class="text-center animation-hatch hidden-xs"><strong>Fully Responsive and Retina Ready</strong></h1>
                                 <h2 class="text-center animation-hatch push hidden-xs">The UI will look great and crisp</h2>
                                 <p class="text-center animation-hatch">
-                                    <img src="img/placeholders/screenshots/promo_mobile.png" alt="Promo Image 3">
+                                    <img src="assets/img/placeholders/screenshots/promo_mobile.png" alt="Promo Image 3">
                                 </p>
                             </div>
                         </section>
@@ -143,7 +143,7 @@
                                 <h1 class="text-center animation-fadeInLeft hidden-xs"><strong>Tons of features are designed &amp; waiting for you</strong></h1>
                                 <h2 class="text-center animation-fadeInRight push hidden-xs">Everything you need for your project</h2>
                                 <p class="text-center animation-fadeIn360">
-                                    <img src="img/placeholders/screenshots/promo_tablet.png" alt="Promo Image 4">
+                                    <img src="assets/img/placeholders/screenshots/promo_tablet.png" alt="Promo Image 4">
                                 </p>
                             </div>
                         </section>
