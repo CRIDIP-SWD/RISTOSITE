@@ -107,8 +107,8 @@
                     <div class="active item">
                         <section class="site-section site-section-light site-section-top themed-background-default">
                             <div class="container">
-                                <h1 class="text-center animation-slideDown hidden-xs"><strong>A complete web solution for your awesome project</strong></h1>
-                                <h2 class="text-center animation-slideUp push hidden-xs">Bring your project to life months sooner</h2>
+                                <h1 class="text-center animation-slideDown hidden-xs"><strong>Logiciel de Commande de panier repas</strong></h1>
+                                <h2 class="text-center animation-slideUp push hidden-xs">Pour les Comités et les Collectivités</h2>
                                 <p class="text-center animation-fadeIn">
                                     <img src="assets/img/placeholders/screenshots/promo_desktop_left.png" alt="Promo Image 1">
                                 </p>
@@ -118,8 +118,8 @@
                     <div class="item">
                         <section class="site-section site-section-light site-section-top themed-background-fire">
                             <div class="container">
-                                <h1 class="text-center animation-fadeIn360 hidden-xs"><strong>Featuring a Powerful and Flexible layout</strong></h1>
-                                <h2 class="text-center animation-fadeIn360 push hidden-xs">Letting you focus on creating your project</h2>
+                                <h1 class="text-center animation-fadeIn360 hidden-xs"><strong>ARCANIA V1.0</strong></h1>
+                                <h2 class="text-center animation-fadeIn360 push hidden-xs">COEUR DE RISTORIA</h2>
                                 <p class="text-center animation-fadeInLeft">
                                     <img src="assets/img/placeholders/screenshots/promo_desktop_right.png" alt="Promo Image 2">
                                 </p>
@@ -129,21 +129,10 @@
                     <div class="item">
                         <section class="site-section site-section-light site-section-top themed-background-amethyst">
                             <div class="container">
-                                <h1 class="text-center animation-hatch hidden-xs"><strong>Fully Responsive and Retina Ready</strong></h1>
-                                <h2 class="text-center animation-hatch push hidden-xs">The UI will look great and crisp</h2>
+                                <h1 class="text-center animation-hatch hidden-xs"><strong>Totalement dans les Nuages</strong></h1>
+                                <h2 class="text-center animation-hatch push hidden-xs">Le Système RISTORIA bénéficie d'une technologie de pointe dans le domaine du cloud computing.</h2>
                                 <p class="text-center animation-hatch">
                                     <img src="assets/img/placeholders/screenshots/promo_mobile.png" alt="Promo Image 3">
-                                </p>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="item">
-                        <section class="site-section site-section-light site-section-top themed-background-modern">
-                            <div class="container">
-                                <h1 class="text-center animation-fadeInLeft hidden-xs"><strong>Tons of features are designed &amp; waiting for you</strong></h1>
-                                <h2 class="text-center animation-fadeInRight push hidden-xs">Everything you need for your project</h2>
-                                <p class="text-center animation-fadeIn360">
-                                    <img src="assets/img/placeholders/screenshots/promo_tablet.png" alt="Promo Image 4">
                                 </p>
                             </div>
                         </section>
