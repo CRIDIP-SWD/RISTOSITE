@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
 
-        <title>ProUI Frontend - Responsive Bootstrap Site Template</title>
+        <title>RISTORIA - Ristogest Basique pour les Comités</title>
 
         <meta name="description" content="ProUI Frontend is a Responsive Bootstrap Site Template created by pixelcave and added as a bonus in ProUI Admin Template package which is published on Themeforest.">
         <meta name="author" content="pixelcave">
@@ -51,7 +51,7 @@
                 <div class="container">
                     <!-- Site Logo -->
                     <a href="index.html" class="site-logo">
-                        <i class="gi gi-flash"></i> <strong>Pro</strong>UI
+                        <i class="gi gi-flash"></i> <strong>RISTO</strong>RIA
                     </a>
                     <!-- Site Logo -->
 
@@ -74,68 +74,23 @@
                             </li>
                             <!-- END Menu Toggle -->
                             <li class="active">
-                                <a href="javascript:void(0)" class="site-nav-sub"><i class="fa fa-angle-down site-nav-arrow"></i>Home</a>
-                                <ul>
-                                    <li>
-                                        <a href="index.html" class="active">Full Width</a>
-                                    </li>
-                                    <li>
-                                        <a href="index_alt.html">Full Width (Dark)</a>
-                                    </li>
-                                    <li>
-                                        <a href="index_parallax.html">Full Width Parallax</a>
-                                    </li>
-                                    <li>
-                                        <a href="index_boxed.html">Boxed</a>
-                                    </li>
-                                    <li>
-                                        <a href="index_boxed_alt.html">Boxed (Dark)</a>
-                                    </li>
-                                    <li>
-                                        <a href="index_boxed_parallax.html">Boxed Parallax</a>
-                                    </li>
-                                </ul>
+                                <a href="index.php">ACCUEIL</a>
+                                
                             </li>
                             <li>
-                                <a href="javascript:void(0)" class="site-nav-sub"><i class="fa fa-angle-down site-nav-arrow"></i>Pages</a>
-                                <ul>
-                                    <li>
-                                        <a href="blog.html">Blog</a>
-                                    </li>
-                                    <li>
-                                        <a href="blog_post.html">Blog Post</a>
-                                    </li>
-                                    <li>
-                                        <a href="portfolio_4.html">Portfolio 4 Columns</a>
-                                    </li>
-                                    <li>
-                                        <a href="portfolio_3.html">Portfolio 3 Columns</a>
-                                    </li>
-                                    <li>
-                                        <a href="portfolio_2.html">Portfolio 2 Columns</a>
-                                    </li>
-                                    <li>
-                                        <a href="portfolio_single.html">Portfolio Single</a>
-                                    </li>
-                                    <li>
-                                        <a href="team.html">Team</a>
-                                    </li>
-                                    <li>
-                                        <a href="helpdesk.html">Helpdesk</a>
-                                    </li>
-                                </ul>
+                                <a href="fonction.php">FONCTIONNALITE</a>
                             </li>
                             <li>
-                                <a href="features.html">Features</a>
+                                <a href="tarif.php">TARIF</a>
                             </li>
                             <li>
-                                <a href="pricing.html">Pricing</a>
+                                <a href="dev-blog.php">BLOG DEV</a>
                             </li>
                             <li>
-                                <a href="contact.html">Contact</a>
+                                <a href="assistance.php">ASSISTANCE</a>
                             </li>
                             <li>
-                                <a href="about.html">About</a>
+                                <a href="contact.php">CONTACT</a>
                             </li>
                         </ul>
                         <!-- END Main Menu -->
